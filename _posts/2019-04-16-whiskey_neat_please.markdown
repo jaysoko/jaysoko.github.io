@@ -26,8 +26,3 @@ Subsequent days and weeks were spent on implementing Object logic.  Every time I
 
 I began to realize that each level of code iteration I would write was really an extraction of what I had already coded.   Keep leveling up to make things leaner and cleaner.  
 
-
-
-
-fdsfads
-
